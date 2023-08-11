@@ -1,0 +1,373 @@
+[
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 1,
+  "N": 3,
+  "Time": 9541
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 2,
+  "N": 3,
+  "Time": 8525
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 2,
+  "N": 4,
+  "Time": 8490
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 3,
+  "N": 4,
+  "Time": 12579
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 1,
+  "N": 5,
+  "Time": 5846
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 2,
+  "N": 5,
+  "Time": 9843
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 3,
+  "N": 5,
+  "Time": 12596
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 4,
+  "N": 5,
+  "Time": 16103
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 1,
+  "N": 6,
+  "Time": 5536
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 2,
+  "N": 6,
+  "Time": 8630
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 3,
+  "N": 6,
+  "Time": 11712
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 4,
+  "N": 6,
+  "Time": 16079
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 5,
+  "N": 6,
+  "Time": 18943
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 1,
+  "N": 7,
+  "Time": 5605
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 2,
+  "N": 7,
+  "Time": 8563
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 3,
+  "N": 7,
+  "Time": 11776
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 4,
+  "N": 7,
+  "Time": 16878
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 5,
+  "N": 7,
+  "Time": 18884
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 6,
+  "N": 7,
+  "Time": 23082
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 1,
+  "N": 8,
+  "Time": 5643
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 2,
+  "N": 8,
+  "Time": 8505
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 3,
+  "N": 8,
+  "Time": 12472
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 4,
+  "N": 8,
+  "Time": 15297
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 5,
+  "N": 8,
+  "Time": 19693
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 6,
+  "N": 8,
+  "Time": 22731
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 7,
+  "N": 8,
+  "Time": 26289
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 1,
+  "N": 9,
+  "Time": 5616
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 2,
+  "N": 9,
+  "Time": 8632
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 3,
+  "N": 9,
+  "Time": 11816
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 4,
+  "N": 9,
+  "Time": 16562
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 5,
+  "N": 9,
+  "Time": 19731
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 6,
+  "N": 9,
+  "Time": 22756
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 7,
+  "N": 9,
+  "Time": 26992
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 8,
+  "N": 9,
+  "Time": 31714
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 1,
+  "N": 10,
+  "Time": 5581
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 2,
+  "N": 10,
+  "Time": 9352
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 3,
+  "N": 10,
+  "Time": 16690
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 4,
+  "N": 10,
+  "Time": 15352
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 5,
+  "N": 10,
+  "Time": 18938
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 6,
+  "N": 10,
+  "Time": 23685
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 7,
+  "N": 10,
+  "Time": 26206
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 8,
+  "N": 10,
+  "Time": 31732
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 9,
+  "N": 10,
+  "Time": 40495
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 1,
+  "N": 11,
+  "Time": 5987
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 2,
+  "N": 11,
+  "Time": 12222
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 3,
+  "N": 11,
+  "Time": 12478
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 4,
+  "N": 11,
+  "Time": 17106
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 5,
+  "N": 11,
+  "Time": 21399
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 6,
+  "N": 11,
+  "Time": 23984
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 7,
+  "N": 11,
+  "Time": 27102
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 8,
+  "N": 11,
+  "Time": 35065
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 9,
+  "N": 11,
+  "Time": 37673
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretReconstruct",
+  "T": 10,
+  "N": 11,
+  "Time": 47023
+ }
+]

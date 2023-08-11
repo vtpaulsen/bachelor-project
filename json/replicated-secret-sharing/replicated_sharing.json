@@ -1,0 +1,373 @@
+[
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 3,
+  "Time": 1629682
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 3,
+  "Time": 1391264
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 4,
+  "Time": 3530480
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 4,
+  "Time": 2120846
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 5,
+  "Time": 2896768
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 5,
+  "Time": 6279957
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 5,
+  "Time": 6199976
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 5,
+  "Time": 2811703
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 6,
+  "Time": 4017803
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 6,
+  "Time": 10535189
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 6,
+  "Time": 14535451
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 6,
+  "Time": 10501998
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 6,
+  "Time": 4103407
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 7,
+  "Time": 9343449
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 7,
+  "Time": 18791380
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 7,
+  "Time": 28283679
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 7,
+  "Time": 28012599
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 7,
+  "Time": 18230743
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 7,
+  "Time": 8567057
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 8,
+  "Time": 52606864
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 8,
+  "Time": 66837002
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 8,
+  "Time": 86605662
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 8,
+  "Time": 95470586
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 8,
+  "Time": 85780602
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 8,
+  "Time": 66482344
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 8,
+  "N": 8,
+  "Time": 51835523
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 9,
+  "Time": 607112880
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 9,
+  "Time": 630460590
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 9,
+  "Time": 660758797
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 9,
+  "Time": 702159001
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 9,
+  "Time": 696837184
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 9,
+  "Time": 676413400
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 8,
+  "N": 9,
+  "Time": 639667442
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 9,
+  "N": 9,
+  "Time": 634156318
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 10,
+  "Time": 5682573814
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 10,
+  "Time": 5905759979
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 10,
+  "Time": 5932029542
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 10,
+  "Time": 6148743937
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 10,
+  "Time": 6093361570
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 10,
+  "Time": 6113323162
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 8,
+  "N": 10,
+  "Time": 5987551118
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 9,
+  "N": 10,
+  "Time": 5951900722
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 10,
+  "N": 10,
+  "Time": 5948276217
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 11,
+  "Time": 65208730006
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 11,
+  "Time": 66490828762
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 11,
+  "Time": 67273114874
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 11,
+  "Time": 67477431410
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 11,
+  "Time": 67530671527
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 11,
+  "Time": 67365499825
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 8,
+  "N": 11,
+  "Time": 67530855013
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 9,
+  "N": 11,
+  "Time": 66951511458
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 10,
+  "N": 11,
+  "Time": 66622686820
+ },
+ {
+  "SecretSharingScheme": "Replicated",
+  "Algorithm": "SecretShare",
+  "T": 11,
+  "N": 11,
+  "Time": 65918596773
+ }
+]

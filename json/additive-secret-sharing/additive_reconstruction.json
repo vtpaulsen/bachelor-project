@@ -1,0 +1,65 @@
+[
+ {
+  "SecretSharingScheme": "Additive",
+  "Algorithm": "SecretReconstruction",
+  "T": 3,
+  "N": 3,
+  "Time": 710
+ },
+ {
+  "SecretSharingScheme": "Additive",
+  "Algorithm": "SecretReconstruction",
+  "T": 4,
+  "N": 4,
+  "Time": 779
+ },
+ {
+  "SecretSharingScheme": "Additive",
+  "Algorithm": "SecretReconstruction",
+  "T": 5,
+  "N": 5,
+  "Time": 765
+ },
+ {
+  "SecretSharingScheme": "Additive",
+  "Algorithm": "SecretReconstruction",
+  "T": 6,
+  "N": 6,
+  "Time": 775
+ },
+ {
+  "SecretSharingScheme": "Additive",
+  "Algorithm": "SecretReconstruction",
+  "T": 7,
+  "N": 7,
+  "Time": 814
+ },
+ {
+  "SecretSharingScheme": "Additive",
+  "Algorithm": "SecretReconstruction",
+  "T": 8,
+  "N": 8,
+  "Time": 774
+ },
+ {
+  "SecretSharingScheme": "Additive",
+  "Algorithm": "SecretReconstruction",
+  "T": 9,
+  "N": 9,
+  "Time": 1527
+ },
+ {
+  "SecretSharingScheme": "Additive",
+  "Algorithm": "SecretReconstruction",
+  "T": 10,
+  "N": 10,
+  "Time": 891
+ },
+ {
+  "SecretSharingScheme": "Additive",
+  "Algorithm": "SecretReconstruction",
+  "T": 11,
+  "N": 11,
+  "Time": 1493
+ }
+]

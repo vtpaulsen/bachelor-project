@@ -1,0 +1,33 @@
+goos: linux
+goarch: amd64
+pkg: gitlab.au.dk/vtpaulsen/bachelor/v2
+cpu: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz
+Benchmark_shamir/2-out-of-3 with 4 threads              37105	     	29716 ns/op	    	4064 B/op	     	266 allocs/op
+Benchmark_shamir/2-out-of-4 with 4 threads              37570	     	31055 ns/op	    	4480 B/op	     	284 allocs/op
+Benchmark_shamir/3-out-of-5 with 4 threads              21164	     	56791 ns/op	    	8768 B/op	     	518 allocs/op
+Benchmark_shamir/3-out-of-6 with 4 threads              20160	     	59622 ns/op	    	9632 B/op	     	560 allocs/op
+Benchmark_shamir/4-out-of-7 with 4 threads              13114		92591 ns/op	   	17696 B/op	     	906 allocs/op
+Benchmark_shamir/4-out-of-8 with 4 threads              12588		96943 ns/op	   	19456 B/op	     	980 allocs/op
+Benchmark_shamir/5-out-of-9 with 4 threads              9156	    	128599 ns/op	   	30272 B/op	    	1422 allocs/op
+Benchmark_shamir/5-out-of-10 with 4 threads             8512	    	136862 ns/op	   	32928 B/op	    	1528 allocs/op
+Benchmark_shamir/6-out-of-11 with 4 threads             6202	    	171214 ns/op	   	46400 B/op	    	2066 allocs/op
+Benchmark_replicated/2-out-of-3 with 4 threads          837	   	1430913 ns/op	  	334336 B/op	    	2440 allocs/op
+Benchmark_replicated/2-out-of-4 with 4 threads          565	   	2392288 ns/op	  	502744 B/op	    	3728 allocs/op
+Benchmark_replicated/3-out-of-5 with 4 threads          184	   	7374377 ns/op	 	1528206 B/op	   	11149 allocs/op
+Benchmark_replicated/3-out-of-6 with 4 threads          100	  	10578494 ns/op	 	2639799 B/op	   	21444 allocs/op
+Benchmark_replicated/4-out-of-7 with 4 threads       	40	  	28839515 ns/op	 	8359644 B/op	   	77942 allocs/op
+Benchmark_replicated/4-out-of-8 with 4 threads       	12	  	91446501 ns/op		41648656 B/op	  	383271 allocs/op
+Benchmark_replicated/5-out-of-9 with 4 threads       	2	 	744857664 ns/op		352281024 B/op	 	3039592 allocs/op
+Benchmark_replicated/5-out-of-10 with 4 threads		1		6039863716 ns/op	3203647056 B/op		29257889 allocs/op
+Benchmark_replicated/6-out-of-11 with 4 threads		1		68645151844 ns/op	36762391376 B/op	319834027 allocs/op
+Benchmark_additive/3-out-of-3 with 4 threads       	793	   	1430567 ns/op	  	322613 B/op	    	2205 allocs/op
+Benchmark_additive/4-out-of-4 with 4 threads       	555	   	2079212 ns/op	  	484232 B/op	    	3283 allocs/op
+Benchmark_additive/5-out-of-5 with 4 threads       	417	   	2834074 ns/op	  	656338 B/op	    	4387 allocs/op
+Benchmark_additive/6-out-of-6 with 4 threads       	337	   	3491996 ns/op	  	813433 B/op	    	5469 allocs/op
+Benchmark_additive/7-out-of-7 with 4 threads       	276	   	4176012 ns/op	  	971058 B/op	    	6541 allocs/op
+Benchmark_additive/8-out-of-8 with 4 threads       	236	   	4878197 ns/op	 	1147520 B/op	    	7653 allocs/op
+Benchmark_additive/9-out-of-9 with 4 threads       	212	   	5568279 ns/op	 	1296240 B/op	    	8691 allocs/op
+Benchmark_additive/10-out-of-10 with 4 threads     	188	   	6351966 ns/op	 	1472363 B/op	    	9817 allocs/op
+Benchmark_additive/11-out-of-11 with 4 threads     	169	   	6944810 ns/op	 	1634696 B/op	   	10894 allocs/op
+PASS
+ok  	gitlab.au.dk/vtpaulsen/bachelor/v2	119.327s

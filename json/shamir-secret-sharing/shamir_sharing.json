@@ -1,0 +1,373 @@
+[
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 3,
+  "Time": 20245
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 3,
+  "Time": 33413
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 4,
+  "Time": 36739
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 4,
+  "Time": 57527
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 5,
+  "Time": 20253
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 5,
+  "Time": 37435
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 5,
+  "Time": 59507
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 5,
+  "Time": 76529
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 6,
+  "Time": 19521
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 6,
+  "Time": 39127
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 6,
+  "Time": 65696
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 6,
+  "Time": 83497
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 6,
+  "Time": 109245
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 7,
+  "Time": 21361
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 7,
+  "Time": 41770
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 7,
+  "Time": 66356
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 7,
+  "Time": 88100
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 7,
+  "Time": 108984
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 7,
+  "Time": 132787
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 8,
+  "Time": 23994
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 8,
+  "Time": 42524
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 8,
+  "Time": 66327
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 8,
+  "Time": 92857
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 8,
+  "Time": 117242
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 8,
+  "Time": 147488
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 8,
+  "N": 8,
+  "Time": 235813
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 9,
+  "Time": 28679
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 9,
+  "Time": 47596
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 9,
+  "Time": 75350
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 9,
+  "Time": 95570
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 9,
+  "Time": 110284
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 9,
+  "Time": 137851
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 8,
+  "N": 9,
+  "Time": 154284
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 9,
+  "N": 9,
+  "Time": 180343
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 10,
+  "Time": 21562
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 10,
+  "Time": 44938
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 10,
+  "Time": 65346
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 10,
+  "Time": 91514
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 10,
+  "Time": 121697
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 10,
+  "Time": 142317
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 8,
+  "N": 10,
+  "Time": 191496
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 9,
+  "N": 10,
+  "Time": 194268
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 10,
+  "N": 10,
+  "Time": 216008
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 2,
+  "N": 11,
+  "Time": 22033
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 3,
+  "N": 11,
+  "Time": 45996
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 4,
+  "N": 11,
+  "Time": 71183
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 5,
+  "N": 11,
+  "Time": 93182
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 6,
+  "N": 11,
+  "Time": 120630
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 7,
+  "N": 11,
+  "Time": 145294
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 8,
+  "N": 11,
+  "Time": 200375
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 9,
+  "N": 11,
+  "Time": 206686
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 10,
+  "N": 11,
+  "Time": 223997
+ },
+ {
+  "SecretSharingScheme": "Shamir",
+  "Algorithm": "SecretShare",
+  "T": 11,
+  "N": 11,
+  "Time": 255452
+ }
+]
